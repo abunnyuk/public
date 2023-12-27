@@ -93,4 +93,6 @@ The plants shouldn't need watering but, if you do come to ours, I may message to
 
 ### TV
 
-To control the TV, it's a single small remote which will power on/off and control both the TV and the AV receiver. You can use Disney+ and Prime Video, and Netflix is on there but it's Nathalie's sister's account so now keeps on nagging to enter a verification number now that they've banned password sharing.
+The TV has a device connected to it called Nvidia Shield which is an Android device designed for gaming that's also incredible for streaming **and** is capable of controlling both the TV and AV receiver, so you don't need to mess about with multiple remotes. The remote is small and is a triangular prism so it's pretty only but should also be the only remove out.
+
+You can use Disney+ and Prime Video (use my profile when prompted), and Netflix is on there but it's Nathalie's sister's account which now keeps on nagging to enter a verification number since Netlfix have banned password sharing.
